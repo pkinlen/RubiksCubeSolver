@@ -1,6 +1,8 @@
 # In this file we build and train a neural network used to determine
 # the number of rotations required to solve a rubix cube.
-
+#
+# Author: Philip Kinlen, August 2023.
+#
 #################################################
 # imports
 import numpy as np
