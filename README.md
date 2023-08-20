@@ -10,4 +10,4 @@ Thus we can solve the cube.
 
 The GenerateTrainingData folder contains code written in Java that can be used to generate training and test data. 
 
-We've written a blog post about this solver, [here's the link.](https://abitofmaths.blogspot.com/2023/08/using-neural-network-to-solve-rubiks.html)
+If you're interested in reading a blog post about this solver, [here's the link.](https://abitofmaths.blogspot.com/2023/08/using-neural-network-to-solve-rubiks.html)
