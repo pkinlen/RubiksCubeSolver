@@ -1,6 +1,6 @@
 // One of the main purposes of this code it to generate training data for
 // the rubix cube neural network.
-// The neural net will takes as input the state of a cube and it will
+// The neural net will take as input the state of a cube and it will
 // determine how many quarter rotations are required to solve it.
 // This code will start with a solved (virtual) cube. It will rotate it through n
 // random (quarter) rotations and will then add a row to the output file
