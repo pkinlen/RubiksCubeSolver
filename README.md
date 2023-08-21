@@ -1,6 +1,6 @@
-# RubixCubeSolver
+# RubiksCubeSolver
 
-This project explores how a neural network can be used to solve a Rubix Cube.
+This project explores how a neural network can be used to solve a Rubiks Cube.
 The neural network takes as input (X[.]) a digital representation of the current state of a cube.
 The output is a vector Y[.] where Y[i] is the probability that the cube can be solved in i steps, each step is a quarter rotation of one face. 
 Suppose the net predicts that the cube can be solved in 8 steps.
