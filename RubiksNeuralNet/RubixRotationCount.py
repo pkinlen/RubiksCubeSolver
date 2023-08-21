@@ -1,5 +1,5 @@
 # In this file we build and train a neural network used to determine
-# the number of rotations required to solve a Rubik's cube.
+# the number of (quarter) rotations required to solve a Rubik's cube.
 #
 # Author: Philip Kinlen, August 2023.
 #
@@ -32,7 +32,7 @@ def readInData(dataFilePath, maxRotations, doPrint=False):
 
 ################################################
 def buildModel(numElmsInEachX, numElmsInEachY, numLayers):
-    # The input X[.] will be a representation of the current state of the rubix cube.
+    # The input X[.] will be a representation of the current state of the Rubiks cube.
     # The output Y[i] is the probability that the cube is i (quarter) rotations
     # away from being solved.
 
