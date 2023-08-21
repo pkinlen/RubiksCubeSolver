@@ -1,5 +1,5 @@
 # In this file we build and train a neural network used to determine
-# the number of rotations required to solve a rubix cube.
+# the number of rotations required to solve a Rubik's cube.
 #
 # Author: Philip Kinlen, August 2023.
 #
